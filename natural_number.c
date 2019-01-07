@@ -9,4 +9,5 @@ for(i=1;i<=n;i++)
 sum=i+1;
 }
 printf("sum=%d",sum);
-return 0
+return 0;
+}
